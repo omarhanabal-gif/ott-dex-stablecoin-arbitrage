@@ -2,7 +2,7 @@
 
 Group project, Algorithmic Trading. Extension of Yang & Malik (2024), *Optimal Market-Neutral Multivariate Pair Trading on the Cryptocurrency Platform*, IJFS 12:77.
 
-**Authors:** Member 1 · Member 2 · Member 3 · Member 4 *(replace with your names)*
+   **Authors:** Omar Hanabal · Hanaa Alaoui Aboubarakate · Sara Chraibi Houssaini · Esteban Baptista Alves
 
 > **Main finding.** On Uniswap V3 (May–Nov 2026, 15-min bars, out-of-sample), the paper's OTT rule loses money once real DEX frictions are modelled (−$46k with the paper's flat 0.1 % fee; −$1.4k with real fee tiers, slippage and gas). A friction-aware entry filter turns it into a small but consistent profit (94–100 % winning trades), yet capacity is tiny: ETH/stablecoin cross-pool mispricings close within one 15-minute bar.
 
