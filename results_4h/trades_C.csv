@@ -1,0 +1,2 @@
+,pair,direction,open,close,bars,hold_hours,notional_usd,pnl_usd,fee_usd,slip_usd,gas_usd,exit
+0,USDC:USDT,1,2026-07-21 04:00:00,2026-07-21 16:00:00,3,12.0,4730.853519993573,2.707237716360536,9.453948277677245,0.8867072482759686,0.22168542146799197,converged
